@@ -1,6 +1,8 @@
 # STP-STEP-IGES-BREP-to-STL-Python-converter
 Really simple STP-STEP-IGES-BREP to STL Python converter script
 
+Blogpost with embedded jupyter notebook: https://marcofarias.com/how-to-convert-any-stp-step-igs-iges-brep-3d-model-file-to-a-stl-mesh-with-python/
+
 Some parameters can be tuned and useful information can be gathered as well.
 
 The script supports multithreading for faster results.
